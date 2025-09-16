@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: cf44300adb0dda34e8e991d45cb90528
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARC_Conc_InterlockingBlocks_01_D
+    second: {fileID: 2100000, guid: 6757e992b2984094b908a0daa57ad049, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARC_Conc_InterlockingBlocks_02_D
+    second: {fileID: 2100000, guid: cd80289690aea3745a4c3863012769b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARC_Concrete_TunnelWall_01_D
+    second: {fileID: 2100000, guid: 1322b2bc1072c334facd6839942933af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARC_Metal_Trim_01_D
+    second: {fileID: 2100000, guid: c3964a2a4ad83204cab1c965bbb5832b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARC_Overpass_ConcreteGrim_01_D
+    second: {fileID: 2100000, guid: 99de73cc033b52545956adbcadab9ba0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARC_Tunnel_RoofA_01_D
+    second: {fileID: 2100000, guid: 74153dccdebf0234d803556a41e501cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARC_Tunnel_WallA_01_D
+    second: {fileID: 2100000, guid: 810125eeeac8c31408e0a2ecf3bbd6da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARC_Wall_OldRock_01_D
+    second: {fileID: 2100000, guid: 7cf943c6cf767654da199f4ca6d68f8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OBJ_Barrier_Concrete_02_D
+    second: {fileID: 2100000, guid: e93f51265679a7a4cb1d7cea90b465a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TRN_CliffB_Sharp_01_D
+    second: {fileID: 2100000, guid: 8836c9ee640ba3b4a9a1493e4200c3da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TRN_CliffC_TileVonly_01_D
+    second: {fileID: 2100000, guid: d62a4e4201bcf04479bc6239cda8995a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TRN_Dirt_Path_01_D
+    second: {fileID: 2100000, guid: bc85c31a1233d3946a5fa7fdc6e6cf7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TRN_EXDriftA_Brid
+    second: {fileID: 2100000, guid: 85503d48a6df5794ca1ed0aeacf47d24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TRN_Grass_CleanCut_01_NG_D
+    second: {fileID: 2100000, guid: f7dd0d84a3ced5a4fade70c115fb1899, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TRN_Rock_DevilsPostpile_01_D
+    second: {fileID: 2100000, guid: 5f584f2874b0fcf41aeeb51153b4f619, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TRN_Rock_DevilsPostpile_02_D
+    second: {fileID: 2100000, guid: 92dc249c825e8f845a8eac8f8ef32bf9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TRN_Scrubbrush_Bush_01_D
+    second: {fileID: 2100000, guid: ef10f7aa2ac146d4594076143fde5479, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TRN_SidewalkB_01_D
+    second: {fileID: 2100000, guid: 4c2447c65c7200241b9a4aeb112a53f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TRN_Sidewalk_Clean_01_D
+    second: {fileID: 2100000, guid: 071e67eecfd269f4cace5d31b354f9c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TRT_GravelA_CliffB_01_D
+    second: {fileID: 2100000, guid: 4c1ae6fc92ab572479e5bb8ef1478195, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TRT_GravelA_CliffC_01_D
+    second: {fileID: 2100000, guid: 31f5abb84b1655f40b6ab2cc6f35137e, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 100
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
